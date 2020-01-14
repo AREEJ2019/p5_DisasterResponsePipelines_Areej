@@ -9,8 +9,6 @@ The idea of the project is to classify disaster response pipline messages by usi
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Instructions">Instructions</a></li>
 <li><a href="#File Description">File Description</a></li>
-<li><a href="#Results">Results</a></li>
-<li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
 </ul>
 
 
