@@ -16,7 +16,7 @@ The idea of the project is to classify disaster response pipline messages by usi
 
 <a id='Installation'></a>
 # Installation
-The code should run with no issues using Python versions 3.*.
+The code should run with no issues
 <a id='Instructions'></a>
 
 # Instructions
@@ -57,14 +57,4 @@ These are the following files I used to complete this analysis:
   - run.py: Flask app and the user interface used to predict results and display them.
    templates: folder containing the html templates
 
-<a id='Results'></a>
-# Results
-The main findings of the code can be found at the <a href="https://view6914b2f4-3001.udacity-student-workspaces.com/">web</a> available
 
-
-
-<a id='Licensing, Authors, and Acknowledgements'></a>
-
-# Licensing, Authors, and Acknowledgements
-
-thanks to Udacity courses for some of code ideas, and to kaggle/Crimes in Boston  for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here <a href="https://www.kaggle.com/AnalyzeBoston/crimes-in-boston">Kaggle</a>. Otherwise, feel free to use the code here as you would like!
